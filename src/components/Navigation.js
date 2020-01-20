@@ -5,8 +5,7 @@ import CartContext from '../contexts/CartContext';
 
 const Navigation = () => {
 
-	const cart = useContext(CartContext);
-	console.log(cart.length)
+	const { cart } = useContext(CartContext);
 
 	return (
 		<div className="navigation">
