@@ -154,7 +154,7 @@ const { products, addItem } = useContext(ProductContext);
     - Remove `props` from our parameters
     - Remove `props` from our cart length
 
-We have now successfully converted our application into using `Context API` 🔥
+We have now successfully converted our application into using `Context API` 🔥 DONE
 
 ## _MVP Requirements:_
 
